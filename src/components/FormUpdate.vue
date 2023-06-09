@@ -26,8 +26,8 @@
       return {
         formFields_local: [
     
-          { name: 'name', label: 'Name', type: 'text', place :'Enter field name' },
-          { name: 'label', label: 'Label', type: 'text',place :'Enter label name'  },
+          { name: 'name', label: 'Name', type: 'text', place :'Input field name' },
+          { name: 'label', label: 'Label', type: 'text',place :'Input label name'  },
           { name: 'type', label: 'Type', type: 'text', place :'Data Type {text/email}'  },
           { name: 'action', label: 'Action', type: 'select' ,  options: [
                                                         { value: 'add', label: 'Add' },]},
