@@ -1,0 +1,24 @@
+{
+  "form-fields": [
+    {
+      "id": 1,
+      "name": "name",
+      "label": "Name",
+      "type": "text"
+    },
+    {
+      "id": 2,
+      "name": "address",
+      "label": "Address",
+      "type": "text"
+    },
+    {
+      "name": "test",
+      "label": "Age",
+      "type": "text",
+      "ops": "add",
+      "id": 3
+    }
+  ],
+  "form": {}
+}
