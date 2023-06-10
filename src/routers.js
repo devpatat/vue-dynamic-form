@@ -1,5 +1,6 @@
 import Form from './components/Form'
 import FormUpdate from './components/FormUpdate'
+import Home from './components/Home'
 import {createRouter,createWebHistory} from 'vue-router'
 
 const routes = [
@@ -12,6 +13,11 @@ const routes = [
         name:'FormUpdate',
         component:FormUpdate,
         path:'/formUpdate'
+    },
+    {
+        name:'Home',
+        component:Home,
+        path:'/'
     },
 ];
 
