@@ -1,0 +1,31 @@
+{
+  "fields": [
+    {
+      "id": 1,
+      "key": "name",
+      "label": "Name",
+      "type": "text"
+    }
+    ,
+    {
+      "id": 4,
+      "key": "contact",
+      "label": "Contact",
+      "type": "text"
+    },
+    {
+      "id": 2,
+      "key": "address",
+      "label": "Address",
+      "type": "text"
+    },
+    {
+      "key": "test",
+      "label": "Age",
+      "type": "text",
+      "ops": "add",
+      "id": 3
+    }
+  ],
+  "form": {}
+}
