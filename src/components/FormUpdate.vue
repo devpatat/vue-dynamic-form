@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>JSON Page</h2>
+    <h2>Provide JSON for form fields</h2>
     <textarea v-model="jsonData" rows="10" cols="50"></textarea>
     <button @click="createJSONFile">Create JSON File</button>
   </div>
@@ -37,3 +37,4 @@ export default {
   },
 };
 </script>
+
